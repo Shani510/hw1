@@ -1,0 +1,1 @@
+My project is a website for some hand made products my friend makes. I included some description about the idea in 'about us' and examples of prodects under 'products'. I hope you enjoy my website. I'm looking forward to making it beautiful!
